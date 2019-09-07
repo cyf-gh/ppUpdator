@@ -1,0 +1,10 @@
+{
+    "DownloadUrl":"https://raw.githubusercontent.com/cyf-gh/Petri-Dish/master/.bin/Release.rar",
+    "DownloadZipType":".rar",
+    "RunAfterUpdate":"PetriDish.App.exe",
+    "BaseFolderName":"Release",
+    "IgnoreCopyFileNames":[
+        "data\\project_dir.json",
+        "Newtonsoft.Json.dll"
+    ]
+}
